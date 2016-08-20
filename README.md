@@ -1,3 +1,3 @@
 # silver-disco
 
-This is for the IE Git talk.
+This is for the Inland Empire Git talk.
